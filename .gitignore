@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# виртуальное окружение
+venv/
+.env
+
+# macOS
+.DS_Store
